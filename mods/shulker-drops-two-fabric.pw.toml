@@ -1,0 +1,13 @@
+name = "Shulker Drops Two (Fabric)"
+filename = "shulkerdropstwo-fabric_1.19.2-2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f165eb407669bc8ccf0ea08184e535554061085c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4015670
+project-id = 575694
