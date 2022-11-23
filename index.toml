@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "ffb9c644759bb685dfe39112e2dec00469fdb48f7baf6fd37a51f0e384c26513"
+hash = "03fdbd0d3a51a96381ede2b1434e0ba5f16fb3af741ad5d36e75e502abc16ac6"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "f35e077d67df0c947bfdb191654240d886650989b970bc4eb8249479b3a66b8d"
+hash = "34937c108a74455347f53276aedc8a670dac3c430ef23392487a75868a6e6091"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "2d89ce58c99df0222640f225661476b27415076d6735ae6261f0813764f4d1e7"
+hash = "21ca02aea1e39f2e33609d1f2342128f40d957429ea030345588d2386755473e"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "bd0b18cb35442cf039162687e5b2999a1e8c77686678ea5a5fd9d964dad08140"
+hash = "de031c77aa7723baf787b0fbaa898a709b54c11e895047ab53ba03d7e349e2d7"
 metafile = true
 
 [[files]]
@@ -493,7 +493,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "129d76badb3ec006304bb8996b7aaf874f2c466f64a952cdd97a6deb3f7acb13"
+hash = "4bcdc91e5cba57a8a294501268420f778febf8f9234d7c634a45bec4d6196495"
 metafile = true
 
 [[files]]
