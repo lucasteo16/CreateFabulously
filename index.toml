@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "91757b6e741fce1471e9e675746be200d4fb8a055201815dfaf5a1c5fc174c2f"
+file = "config/ambientsounds-client.json"
+hash = "64aeeaebe949d5c6f5999263fc87ace6a68abbf630866aa0b256ee22ee9e3e88"
 
 [[files]]
 file = "config/citresewn.json"
@@ -13,8 +13,16 @@ file = "config/debugify.json"
 hash = "68ad55a8421814e6bd802b664244e40540a37eaf3ee8aded87fea53520d25d38"
 
 [[files]]
+file = "config/explorerscompass.json"
+hash = "d111ab9ee0effdbc13f717edb6853ec38006491b974451c56ab87a1ed01dea2c"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "6de5a7b31b67b0f05f38cd99a71689b72a541c3ed9bd82145ec7abbe46f9f4e7"
+
+[[files]]
+file = "config/inventoryhud.json"
+hash = "a21d30f6126ce31d141b40f1f736d6c8518768602f84b2ca46dad1f2dfe716b3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -23,6 +31,18 @@ hash = "ece43c51b968cd12170b10f873bf732ac2429931994bfdbee98d9b6e8b1ebca5"
 [[files]]
 file = "config/modmenu.json"
 hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
+
+[[files]]
+file = "config/naturescompass.json"
+hash = "1810d97d9737a4eb5494077eabf5d3158eeea493d1fa85f91e6b94175855bd29"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "e4a7443a79062094da75959fac3c25381705032e4abd2089bbe0381e2b88917e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -354,6 +374,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3437c4c19f6484284790bc1b1d4b7071022cf956177e4b8f9daf87588222cc1e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-disable-custom-worlds-advice.pw.toml"
+hash = "e16c3c7b7f85abcd007de5f7d4066284781700c1798d2e339b28af1193829235"
 metafile = true
 
 [[files]]
@@ -734,3 +759,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "fc6f57352dd11f3fc8aab4e2dd6d4f22d7182da45975c4b49aba1d2a03b5fa48"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.6.zip"
+hash = "aa7f493d7d95e3b6785beba19cd2a5d5df579e6f66dbc56e3de7c4cfdc0aea74"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
+hash = "7c2f633e5ff1fa5b14d6f558f514646872f57ac203b46888052fa5ed6a2c4c5e"
