@@ -26,7 +26,7 @@ hash = "a21d30f6126ce31d141b40f1f736d6c8518768602f84b2ca46dad1f2dfe716b3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f3b78080005f9a22fa8720bbff6f9d1d130f8a8797feab1705e3e2ce5e0bfb54"
+hash = "80c615d20ed848e4d34d8f5d340d16d708e4adfec2a288d2ae30f6d564a56bc9"
 
 [[files]]
 file = "config/modmenu.json"
@@ -267,6 +267,11 @@ hash = "03fdbd0d3a51a96381ede2b1434e0ba5f16fb3af741ad5d36e75e502abc16ac6"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "8ae47ced5254409bd45f95f36c627c1b7df72e6aa1168a7eefec08c4f300ec9f"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ea57c9a912ed73e1571cad209903b6a61d06b8167f07d1e7506c1d23e1100eed"
 metafile = true
@@ -328,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
-hash = "1bdd45262ec98a7d251f9293e036252e94db72f98850341bebd169a1ec587f56"
+hash = "237761ec002f48ef1f89052d3c13ccc67073e0dea7f42306bf5d2a0fe6c76157"
 metafile = true
 
 [[files]]
@@ -648,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "06d97a9deb03394d6f9a07ddafa551ba3972e7237876f23b8b0405110931b9a1"
+hash = "70106dea428b0afa0a1a77daa88b6d3906250aaa213ebbec91ec6b9a7906731b"
 metafile = true
 
 [[files]]
@@ -713,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ffb60b34a189fb99645973751f4334b6e8cd22dfdc40cc10ff07c1bccbcc4e41"
+hash = "84fe9ae0da9782ad9c9925e2c92a3f26bfe4a1eacd23be32449b7ed0dc4d58dc"
 metafile = true
 
 [[files]]

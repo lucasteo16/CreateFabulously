@@ -1,13 +1,13 @@
 name = "Easy Shulker Boxes"
-filename = "EasyShulkerBoxes-v4.3.3-1.19.2-Fabric.jar"
+filename = "EasyShulkerBoxes-v4.3.5-1.19.2-Fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2d8f18f79231536ea9e7a962f894e40489ac9fdf"
+hash = "acf055b33b0cfe3057dd111d83ef38cc67dc168d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4041220
+file-id = 4110079
 project-id = 594006
