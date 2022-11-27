@@ -9,7 +9,7 @@
                 }
             },
             {
-                "text": "Create Fabulously 1.0.3",
+                "text": "Create Fabulously 1.0.4",
                 "clickEvent": {
                     "action": "open_url",
                     "value": "https://www.curseforge.com/minecraft/modpacks/create-fabulously"
