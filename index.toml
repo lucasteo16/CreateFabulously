@@ -5,6 +5,10 @@ file = "config/ambientsounds-client.json"
 hash = "64aeeaebe949d5c6f5999263fc87ace6a68abbf630866aa0b256ee22ee9e3e88"
 
 [[files]]
+file = "config/bcc.json"
+hash = "8fe4ea403feef2afd244693b4077a068ebff33bbfa91084eee494473160ce344"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -633,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8f386469d92631cfdca5a9c332f3ea0b49f60037a84763967690ec3b41c9cc14"
+hash = "3b6f986abe0605fa3190dc235a2e63eb3208624708a856bdd52c1171b0473ee8"
 metafile = true
 
 [[files]]
