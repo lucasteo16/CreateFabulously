@@ -1,12 +1,12 @@
 name = "Create Fabulously [Fabric]"
 author = "Lucas"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "81a5f4d2b5c92fc9f36fb206d6cf441af39d7cd00653d40fc42a91056b01af65"
+hash = "090717cb3f19043140a4647cdb236949db14e939b217e11110b6838ee640eeef"
 
 [versions]
 fabric = "0.14.10"

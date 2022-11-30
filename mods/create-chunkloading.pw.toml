@@ -1,0 +1,13 @@
+name = "Create Chunkloading"
+filename = "createchunkloading-1.3.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9f13220bd6197235f95691275ca5caff38738e32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4120425
+project-id = 494206

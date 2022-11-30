@@ -6,7 +6,7 @@ hash = "64aeeaebe949d5c6f5999263fc87ace6a68abbf630866aa0b256ee22ee9e3e88"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8fe4ea403feef2afd244693b4077a068ebff33bbfa91084eee494473160ce344"
+hash = "29bdc2637940f978e2ea46dba5a3a36c7914aa42ced077af1eb3e18f653a75fc"
 
 [[files]]
 file = "config/citresewn.json"
@@ -30,7 +30,7 @@ hash = "a21d30f6126ce31d141b40f1f736d6c8518768602f84b2ca46dad1f2dfe716b3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9e085f788bdf5586336ac74e289c61a5683944f2c6f1782b89f2e1eedd7202a"
+hash = "bcde17cea34cc9616c91ae846d5f305543cd7fae572540c4cc2c5de0f6ac7b60"
 
 [[files]]
 file = "config/modmenu.json"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "dae01c51a8849086235a836bc50471e3da57c50883c5183feb4959256363778e"
+hash = "260b76f32c7e6d06b4c7169fc10e6db469393dd8d300673fea6745a5196b77fc"
 metafile = true
 
 [[files]]
@@ -266,18 +266,23 @@ hash = "24c73ddf1c3496f897bc543f7f8f46c7a9cd06d7609c9b93bb0f39e7a58c656c"
 metafile = true
 
 [[files]]
+file = "mods/create-chunkloading.pw.toml"
+hash = "d9c7722a164bebefdd8bb8945c37f6f33db30fa68506e4dea6a8f3fdaa2a0b97"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "03fdbd0d3a51a96381ede2b1434e0ba5f16fb3af741ad5d36e75e502abc16ac6"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8ae47ced5254409bd45f95f36c627c1b7df72e6aa1168a7eefec08c4f300ec9f"
+hash = "764a6cdea2421bda98ef550c43cf26c5e18c1667edde42b451e13ca3e6ec6e98"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ea57c9a912ed73e1571cad209903b6a61d06b8167f07d1e7506c1d23e1100eed"
+hash = "1b2f9d83d8133cbd0575aebc8a98d40d023c8ae5cb7bb9735cf3700ec2865fd3"
 metafile = true
 
 [[files]]
