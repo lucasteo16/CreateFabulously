@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "1656529be40d4700a3b4d4cfb443f5ccc3fa5b1af574620717eb302a4a72a69e"
+hash = "8e1af461f563e3bfdff457a49b52e166f26ecef70be5516dc49b467a7f2e2fe0"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "f583efd7588b168f80f96a413391cc097be8eae6df66f9d4edcecb083a2bdbbd"
+hash = "b1668f6df044f440e64ecdaa7d76c3829f7bd8575122a66d746d7f284b3e5ab8"
 metafile = true
 
 [[files]]
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "6382b0500eb89d2e11501d8a48424eed10612370b9914e6a7f682754487e5947"
+hash = "93667510924c032e0a49ff67eff671df6b3d747152f45ae066e50193dc9af02b"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f0dd09a55774bd422c36534d9fd03d724da9ceb4d52ab07548177e62e138eddd"
+hash = "811b544eaa99b1882faa2511d8b69dd6e18edbc0b22cb6a6fa036a0dea089d0f"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "42b159eedc16220556fdd6220a82512e4b52e09a2e19ac2aa63f10f23e821da8"
+hash = "eb1bde8fc12fe16bde75234d4c5c8a1894c7939acdc4d8cda303044cdbf0d9da"
 metafile = true
 
 [[files]]
@@ -742,12 +742,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f358b50737609e61b3fa7eeeb2d59294dd42b9c5977a86aabaca00ed5af1e6d"
+hash = "9140df52c99d19879399e11a47b5fca38aa578a08424bde829f32a77afd14e7e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "21d4fa50f7fc8c1be39e6575941c1ff50cc9e9c64cd0c594b52c713c81c4d579"
+hash = "58597c005d0dd721e5a6d307bd35680f57e31d128fd10eb3848bc7d188c71df6"
 metafile = true
 
 [[files]]
