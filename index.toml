@@ -6,7 +6,7 @@ hash = "64aeeaebe949d5c6f5999263fc87ace6a68abbf630866aa0b256ee22ee9e3e88"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c730145a9b2dbaffe6ac0c98f65d5dd278b2fc179e6de0ce5e01f9419afc6025"
+hash = "aae1dd013ed7c829e32a2b351132b05651a18ba92876bd84fa8d9711925cd44b"
 
 [[files]]
 file = "config/citresewn.json"
@@ -30,7 +30,7 @@ hash = "a21d30f6126ce31d141b40f1f736d6c8518768602f84b2ca46dad1f2dfe716b3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "249790261e6f1d427c99d4fb31cc568f92d67153b7323bc84481639d04f7cbc9"
+hash = "42f1f4142ea422cb75285ee5f9334c6a5e207167ad2f66053bf781b69cbdda61"
 
 [[files]]
 file = "config/modmenu.json"
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "764a6cdea2421bda98ef550c43cf26c5e18c1667edde42b451e13ca3e6ec6e98"
+hash = "c65f96adfcf4e320ca17a7d8eed555d045cc890f1e992215be177f41f8b547ac"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b5ccce117e289aac78fc1395faaba6176d5d466ae34b9664ed9214507d0e605d"
+hash = "d5dce4372a616878bc23f2f43c539b555a290243e3441acde7059f0b549d23ee"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "58597c005d0dd721e5a6d307bd35680f57e31d128fd10eb3848bc7d188c71df6"
+hash = "46bb4af64a3e00d1dbc690c1bce3b119c837e7b9f7f0d1bcd5f1466366c4da86"
 metafile = true
 
 [[files]]
